@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429213307FVUD1Q</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429213307IYZE30</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descripción de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777486401033</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777486422241-70x7la95p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777486422241-70x7la95p</odePageId>
+      <odeBlockId>block-1777486434442-wsu96rwlj</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777486422241-70x7la95p</odePageId>
+          <odeBlockId>block-1777486434442-wsu96rwlj</odeBlockId>
+          <odeIdeviceId>idevice-1777486434440-1gp0556ep</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Etapa educativa y nivel al que se dirige: 2º ciclo educación infantil/ 5 años.</li>
+<li>Áreas implicadas:
+<ul>
+<li>Crecimiento en armonía</li>
+<li>Descubrimiento y exploración del entorno</li>
+<li>Comunicación y representación de la realidad</li>
+</ul>
+</li>
+<li>Agrupamientos: Gran grupo, pequeño grupo, parejas e individual</li>
+<li>Organización espacial: Rincones del aula y estaciones de aprendizaje</li>
+<li>Temporalización: 3º trimestre, duración de 1 mes con 14 sesiones.</li>
+<li>Productos: Hotel de bichos; infografía de los 4 insectos trabajados; Podcast: "Presentamos nuestro hotel de bichos"<br /></li>
+<li>Herramientas tecnológicas utilizadas: 
+<ul>
+<li>Herramientas de creación (Canva, Genially, Wordwall, kahoot, etc.)</li>
+<li>Plataforma educativa (Teams, Moodle, Educastur…)</li>
+<li>Recursos complementarios (bancos de imágenes, vídeos educativos</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486434440-1gp0556ep","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Etapa educativa y nivel al que se dirige: 2º ciclo educación infantil/ 5 años.</li>\n<li>Áreas implicadas:\n<ul>\n<li>Crecimiento en armonía</li>\n<li>Descubrimiento y exploración del entorno</li>\n<li>Comunicación y representación de la realidad</li>\n</ul>\n</li>\n<li>Agrupamientos: Gran grupo, pequeño grupo, parejas e individual</li>\n<li>Organización espacial: Rincones del aula y estaciones de aprendizaje</li>\n<li>Temporalización: 3º trimestre, duración de 1 mes con 14 sesiones.</li>\n<li>Productos: Hotel de bichos; infografía de los 4 insectos trabajados; Podcast: \"Presentamos nuestro hotel de bichos\"<br /></li>\n<li>Herramientas tecnológicas utilizadas: \n<ul>\n<li>Herramientas de creación (Canva, Genially, Wordwall, kahoot, etc.)</li>\n<li>Plataforma educativa (Teams, Moodle, Educastur…)</li>\n<li>Recursos complementarios (bancos de imágenes, vídeos educativos</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777487378624-raqn440fj</odePageId>
+  <odeParentPageId>page-1777486422241-70x7la95p</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777487378624-raqn440fj</odePageId>
+      <odeBlockId>block-1777487384787-uuvnmq0yi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777487378624-raqn440fj</odePageId>
+          <odeBlockId>block-1777487384787-uuvnmq0yi</odeBlockId>
+          <odeIdeviceId>idevice-1777487384785-um2niy17i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Justificación de su desarrollo y el impacto esperado:</li>
+</ul>
+<p>Esta intervención educativa, se plantea a partir del interés del alumnado por los animales, en concreto, los insectos que forman parte de su entorno más cercano, como la mariposa, la mariquita, el caracol y la abeja. A través de la observación directa y del contacto con la naturaleza, se pretende favorecer el conocimiento,  el cuidado y la importancia de estos insectos para nuestro planeta, despertando la curiosidad y el respeto por los seres vivos.</p>
+<p>La construcción de un hotel de bichos permite al alumnado aproximarse al medio natural de forma práctica y significativa, convirtiéndose en el eje del aprendizaje. La propuesta facilita una integración globalizada de las tres áreas de educación infantil y promueve el desarrollo integral y armónico del alumnado mediante actividades manipulativas, de investigación guiada, exploración, expresión oral, actividades artísticas... y un primer uso funcional y guiado de herramientas digitales.</p>
+<ul>
+<li>Impacto esperado</li>
+</ul>
+<p>Con el desarrollo de esta situación de aprendizaje se espera que el alumnado:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Amplíe su conocimiento sobre los insectos trabajados y comprenda su importancia dentro del ecosistema.</li>
+<li>Adquiera actitudes de respeto, cuidado y protección hacia el entorno natural.</li>
+<li>Desarrolle habilidades de comunicación y trabajo colaborativo en los distintos agrupamientos propuestos.</li>
+<li>Se inicie en el uso de herramientas digitales de forma guiada, responsable y adaptada a su edad.</li>
+<li>Refuerce su autonomía, autoestima y confianza para expresar lo que ha aprendido.</li>
+</ul>
+</li>
+<li>Relación de la SdA con los ODS y Retos del siglo XXI. </li>
+</ul>
+<p>Esta situación de aprendizaje se relaciona directamente con los siguientes ODS:</p>
+<p>ODS 3. Salud y bienestar; ODS 4. Educación de calidad; ODS 13. Acción por el clima; ODS 15. Vida de ecosistemas terrestres.</p>
+<p>Relacionándose con los retos del siglo XXI:</p>
+<ul>
+<li>Educación ambiental y sostenibilidad.</li>
+<li>Desarrollo de la competencia digital desde edades tempranas.</li>
+<li>Trabajo cooperativo y convivencia.</li>
+<li>Pensamiento crítico y curiosidad científica.</li>
+<li>Uso responsable de recursos naturales y materiales reciclados.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777487384785-um2niy17i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Justificación de su desarrollo y el impacto esperado:</li>\n</ul>\n<p>Esta intervención educativa, se plantea a partir del interés del alumnado por los animales, en concreto, los insectos que forman parte de su entorno más cercano, como la mariposa, la mariquita, el caracol y la abeja. A través de la observación directa y del contacto con la naturaleza, se pretende favorecer el conocimiento,  el cuidado y la importancia de estos insectos para nuestro planeta, despertando la curiosidad y el respeto por los seres vivos.</p>\n<p>La construcción de un hotel de bichos permite al alumnado aproximarse al medio natural de forma práctica y significativa, convirtiéndose en el eje del aprendizaje. La propuesta facilita una integración globalizada de las tres áreas de educación infantil y promueve el desarrollo integral y armónico del alumnado mediante actividades manipulativas, de investigación guiada, exploración, expresión oral, actividades artísticas... y un primer uso funcional y guiado de herramientas digitales.</p>\n<ul>\n<li>Impacto esperado</li>\n</ul>\n<p>Con el desarrollo de esta situación de aprendizaje se espera que el alumnado:</p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Amplíe su conocimiento sobre los insectos trabajados y comprenda su importancia dentro del ecosistema.</li>\n<li>Adquiera actitudes de respeto, cuidado y protección hacia el entorno natural.</li>\n<li>Desarrolle habilidades de comunicación y trabajo colaborativo en los distintos agrupamientos propuestos.</li>\n<li>Se inicie en el uso de herramientas digitales de forma guiada, responsable y adaptada a su edad.</li>\n<li>Refuerce su autonomía, autoestima y confianza para expresar lo que ha aprendido.</li>\n</ul>\n</li>\n<li>Relación de la SdA con los ODS y Retos del siglo XXI. </li>\n</ul>\n<p>Esta situación de aprendizaje se relaciona directamente con los siguientes ODS:</p>\n<p>ODS 3. Salud y bienestar; ODS 4. Educación de calidad; ODS 13. Acción por el clima; ODS 15. Vida de ecosistemas terrestres.</p>\n<p>Relacionándose con los retos del siglo XXI:</p>\n<ul>\n<li>Educación ambiental y sostenibilidad.</li>\n<li>Desarrollo de la competencia digital desde edades tempranas.</li>\n<li>Trabajo cooperativo y convivencia.</li>\n<li>Pensamiento crítico y curiosidad científica.</li>\n<li>Uso responsable de recursos naturales y materiales reciclados.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777488140907-hx1djtgud</odePageId>
+  <odeParentPageId>page-1777486422241-70x7la95p</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777488140907-hx1djtgud</odePageId>
+      <odeBlockId>block-1777488143290-pepgl68lt</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777488140907-hx1djtgud</odePageId>
+          <odeBlockId>block-1777488143290-pepgl68lt</odeBlockId>
+          <odeIdeviceId>idevice-1777488143289-2gketzwla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Competencias clave:</strong>
+<ul>
+<li>Competencia en comunicación lingüística (CCL)</li>
+<li>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</li>
+<li>Competencia digital (CD)</li>
+<li>Competencia personal, social y de aprender a aprender (CPSAA)</li>
+<li>Competencia ciudadana (CC)</li>
+<li>Competencia en conciencia y expresión culturales (CCEC)</li>
+</ul>
+</li>
+<li><strong>Concreción curricular por áreas:</strong></li>
+</ul>
+<p><strong>ÁREA 1. CRECIMIENTO EN ARMONÍA</strong></p>
+<ul>
+<li><strong>Competencias Específicas:</strong>
+<ul>
+<li>CE1. Progresar en el conocimiento y control de su propio cuerpo, fortaleciendo hábitos de cuidado personal, bienestar y salud.</li>
+<li>CE2. Desarrollar de forma progresiva la autonomía en actividades cotidianas, mostrando iniciativa y confianza.</li>
+<li>CE3. Reconocer y expresar emociones, necesidades y sentimientos, avanzando en la regulación emocional y la convivencia</li>
+</ul>
+</li>
+<li><strong>Saberes básicos:</strong>
+<ul>
+<li>El conocimiento y cuidado del propio cuerpo.</li>
+<li>Hábitos de vida saludable y respeto por el entorno.</li>
+<li>Desarrollo emocional, autoestima y seguridad afectiva.</li>
+<li>Relaciones sociales y actitudes de ayuda y cooperación</li>
+</ul>
+</li>
+<li><strong>Criterios de evaluación:</strong>
+<ul>
+<li>Criterio evaluación 1. Muestra actitudes de cuidado y respeto hacia los seres vivos y el entorno.</li>
+<li>Criterio evaluación 2. Participa con progresiva autonomía en las actividades propuestas.</li>
+<li>Criterio evaluación 3. Expresa emociones, opiniones y vivencias relacionadas con la experiencia</li>
+</ul>
+</li>
+</ul>
+<p><strong>ÁREA 2. DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO</strong></p>
+<ul>
+<li><strong>Competencias específicas:</strong>
+<ul>
+<li>CE1. Observar, explorar y comprender el entorno natural y social, estableciendo relaciones y formulando explicaciones sencillas.</li>
+<li>CE2. Iniciarse en el pensamiento científico a través de la observación, la experimentación y la curiosidad.</li>
+<li>CE3. Identificar características básicas de los seres vivos, reconociendo sus necesidades y su relación con el entorno.</li>
+</ul>
+</li>
+<li><strong>Saberes básicos:</strong>
+<ul>
+<li>Los seres vivos: insectos y pequeños animales del entorno.</li>
+<li>El respeto y cuidado del medio natural.</li>
+<li>La observación directa y la exploración del entorno cercano.</li>
+<li>Relaciones entre los seres vivos y su hábitat.</li>
+</ul>
+</li>
+<li><strong>Criterios de evaluación:</strong>
+<ul>
+<li>Criterio de evaluación 1. Observa y describe características básicas de algunos insectos.</li>
+<li>Criterio de evaluación 2. Muestra curiosidad y formula preguntas durante la exploración del entorno.</li>
+<li>Criterio de evaluación 3. Adopta actitudes de respeto y cuidado hacia los elementos naturales</li>
+</ul>
+</li>
+</ul>
+<p><strong>ÁREA 3. COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD</strong></p>
+<ul>
+<li><strong>Competencias específicas:</strong>
+<ul>
+<li>CE1. Utilizar de forma progresiva los distintos lenguajes para expresar ideas, emociones y conocimientos.</li>
+<li>CE2. Comprender y producir mensajes orales en situaciones comunicativas diversas.</li>
+<li>CE3. Iniciarse en el uso funcional y creativo de recursos digitales y tecnológicos de forma guiada.</li>
+<li>CE4. Expresarse a través de diferentes lenguajes artísticos y creativos.</li>
+</ul>
+</li>
+<li><strong>Saberes básicos:</strong>
+<ul>
+<li>Lenguaje oral: expresión, escucha y participación en asambleas.</li>
+<li>Lenguajes artísticos: dibujo, construcción, expresión plástica.</li>
+<li>Uso inicial de herramientas digitales con acompañamiento adulto.</li>
+<li>Comunicación audiovisual y digital básica.</li>
+</ul>
+</li>
+<li><strong>Criterios de evaluación:</strong>
+<ul>
+<li>Criterio de evaluación 1. Participa en intercambios comunicativos relacionados con el proyecto.</li>
+<li>Criterio de evaluación 2. Utiliza distintos lenguajes para representar lo aprendido.</li>
+<li>Criterio de evaluación 3. Se inicia en el uso de herramientas digitales de manera guiada y segura.</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777488143289-2gketzwla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Competencias clave:</strong>\n<ul>\n<li>Competencia en comunicación lingüística (CCL)</li>\n<li>Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)</li>\n<li>Competencia digital (CD)</li>\n<li>Competencia personal, social y de aprender a aprender (CPSAA)</li>\n<li>Competencia ciudadana (CC)</li>\n<li>Competencia en conciencia y expresión culturales (CCEC)</li>\n</ul>\n</li>\n<li><strong>Concreción curricular por áreas:</strong></li>\n</ul>\n<p><strong>ÁREA 1. CRECIMIENTO EN ARMONÍA</strong></p>\n<ul>\n<li><strong>Competencias Específicas:</strong>\n<ul>\n<li>CE1. Progresar en el conocimiento y control de su propio cuerpo, fortaleciendo hábitos de cuidado personal, bienestar y salud.</li>\n<li>CE2. Desarrollar de forma progresiva la autonomía en actividades cotidianas, mostrando iniciativa y confianza.</li>\n<li>CE3. Reconocer y expresar emociones, necesidades y sentimientos, avanzando en la regulación emocional y la convivencia</li>\n</ul>\n</li>\n<li><strong>Saberes básicos:</strong>\n<ul>\n<li>El conocimiento y cuidado del propio cuerpo.</li>\n<li>Hábitos de vida saludable y respeto por el entorno.</li>\n<li>Desarrollo emocional, autoestima y seguridad afectiva.</li>\n<li>Relaciones sociales y actitudes de ayuda y cooperación</li>\n</ul>\n</li>\n<li><strong>Criterios de evaluación:</strong>\n<ul>\n<li>Criterio evaluación 1. Muestra actitudes de cuidado y respeto hacia los seres vivos y el entorno.</li>\n<li>Criterio evaluación 2. Participa con progresiva autonomía en las actividades propuestas.</li>\n<li>Criterio evaluación 3. Expresa emociones, opiniones y vivencias relacionadas con la experiencia</li>\n</ul>\n</li>\n</ul>\n<p><strong>ÁREA 2. DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO</strong></p>\n<ul>\n<li><strong>Competencias específicas:</strong>\n<ul>\n<li>CE1. Observar, explorar y comprender el entorno natural y social, estableciendo relaciones y formulando explicaciones sencillas.</li>\n<li>CE2. Iniciarse en el pensamiento científico a través de la observación, la experimentación y la curiosidad.</li>\n<li>CE3. Identificar características básicas de los seres vivos, reconociendo sus necesidades y su relación con el entorno.</li>\n</ul>\n</li>\n<li><strong>Saberes básicos:</strong>\n<ul>\n<li>Los seres vivos: insectos y pequeños animales del entorno.</li>\n<li>El respeto y cuidado del medio natural.</li>\n<li>La observación directa y la exploración del entorno cercano.</li>\n<li>Relaciones entre los seres vivos y su hábitat.</li>\n</ul>\n</li>\n<li><strong>Criterios de evaluación:</strong>\n<ul>\n<li>Criterio de evaluación 1. Observa y describe características básicas de algunos insectos.</li>\n<li>Criterio de evaluación 2. Muestra curiosidad y formula preguntas durante la exploración del entorno.</li>\n<li>Criterio de evaluación 3. Adopta actitudes de respeto y cuidado hacia los elementos naturales</li>\n</ul>\n</li>\n</ul>\n<p><strong>ÁREA 3. COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD</strong></p>\n<ul>\n<li><strong>Competencias específicas:</strong>\n<ul>\n<li>CE1. Utilizar de forma progresiva los distintos lenguajes para expresar ideas, emociones y conocimientos.</li>\n<li>CE2. Comprender y producir mensajes orales en situaciones comunicativas diversas.</li>\n<li>CE3. Iniciarse en el uso funcional y creativo de recursos digitales y tecnológicos de forma guiada.</li>\n<li>CE4. Expresarse a través de diferentes lenguajes artísticos y creativos.</li>\n</ul>\n</li>\n<li><strong>Saberes básicos:</strong>\n<ul>\n<li>Lenguaje oral: expresión, escucha y participación en asambleas.</li>\n<li>Lenguajes artísticos: dibujo, construcción, expresión plástica.</li>\n<li>Uso inicial de herramientas digitales con acompañamiento adulto.</li>\n<li>Comunicación audiovisual y digital básica.</li>\n</ul>\n</li>\n<li><strong>Criterios de evaluación:</strong>\n<ul>\n<li>Criterio de evaluación 1. Participa en intercambios comunicativos relacionados con el proyecto.</li>\n<li>Criterio de evaluación 2. Utiliza distintos lenguajes para representar lo aprendido.</li>\n<li>Criterio de evaluación 3. Se inicia en el uso de herramientas digitales de manera guiada y segura.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777488897322-7qrdm6quj</odePageId>
+  <odeParentPageId>page-1777486422241-70x7la95p</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777488897322-7qrdm6quj</odePageId>
+      <odeBlockId>block-1777488899098-7ygigqhjq</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777488897322-7qrdm6quj</odePageId>
+          <odeBlockId>block-1777488899098-7ygigqhjq</odeBlockId>
+          <odeIdeviceId>idevice-1777488899096-bmgojveyz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Aprendizaje Basado en Proyectos (ABP): </strong>el proyecto del hotel de bichos actúa como eje vertebrador del aprendizaje.</li>
+<li><strong>Aprendizaje cooperativo:</strong> el alumnado trabaja en pequeños grupos y gran grupo para investigar, crear y construir.</li>
+<li><strong>Aprendizaje por descubrimiento:</strong> observación directa, exploración y experimentación con materiales y recursos.</li>
+<li><strong>Aprendizaje Basado en el Juego (ABJ)</strong>: se utilizarán juegos de mesa, tanto manipulativos como digitales, relacionados con los insectos y el entorno natural.</li>
+<li><strong>Aprendizaje-Servicio (ApS): </strong>Los productos finales elaborados (infografía interactiva y podcast) serán difundidos a la comunidad educativa y al entorno cercano del centro, animándoles a crear su hotel de bichos.</li>
+<li><strong>Gamificación: </strong>Se realizará un acercamiento a la gamificación en una actividad, activando los elementos del juego e incorporando elementos interactivos en una yincana, donde deberán resolver varias misiones.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777488899096-bmgojveyz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Aprendizaje Basado en Proyectos (ABP): </strong>el proyecto del hotel de bichos actúa como eje vertebrador del aprendizaje.</li>\n<li><strong>Aprendizaje cooperativo:</strong> el alumnado trabaja en pequeños grupos y gran grupo para investigar, crear y construir.</li>\n<li><strong>Aprendizaje por descubrimiento:</strong> observación directa, exploración y experimentación con materiales y recursos.</li>\n<li><strong>Aprendizaje Basado en el Juego (ABJ)</strong>: se utilizarán juegos de mesa, tanto manipulativos como digitales, relacionados con los insectos y el entorno natural.</li>\n<li><strong>Aprendizaje-Servicio (ApS): </strong>Los productos finales elaborados (infografía interactiva y podcast) serán difundidos a la comunidad educativa y al entorno cercano del centro, animándoles a crear su hotel de bichos.</li>\n<li><strong>Gamificación: </strong>Se realizará un acercamiento a la gamificación en una actividad, activando los elementos del juego e incorporando elementos interactivos en una yincana, donde deberán resolver varias misiones.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777489550697-8ah6h3i79</odePageId>
+  <odeParentPageId>page-1777486422241-70x7la95p</odeParentPageId>
+  <pageName> 4.Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 4.Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777489550697-8ah6h3i79</odePageId>
+      <odeBlockId>block-1777489552562-2kn5od765</odeBlockId>
+      <blockName>Planes y programas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777489550697-8ah6h3i79</odePageId>
+          <odeBlockId>block-1777489552562-2kn5od765</odeBlockId>
+          <odeIdeviceId>idevice-1777489552561-zse0uaqao</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se vincula con los siguientes <strong>planes y programas del centro</strong>:</p>
+<ul>
+<li>Plan lector: uso de cuentos, textos informativos, asambleas para investigar sobre insectos...</li>
+<li>PAD (Plan de Atención a la Diversidad): inclusión del DUA con actividades flexibles y adaptadas a los diferentes ritmos y necesidades del alumnado.</li>
+<li>Programa de Educación Ambiental del centro: cuidado del entorno y contacto directo con la naturaleza.</li>
+<li>Plan de Convivencia: trabajo cooperativo, respeto de normas, desarrollo de habilidades sociales y resolución de conflictos de manera pacífica.</li>
+<li>Plan digital: uso guiado de herramientas digitales para la creación de la infografía y el podcast.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777489552561-zse0uaqao","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se vincula con los siguientes <strong>planes y programas del centro</strong>:</p>\n<ul>\n<li>Plan lector: uso de cuentos, textos informativos, asambleas para investigar sobre insectos...</li>\n<li>PAD (Plan de Atención a la Diversidad): inclusión del DUA con actividades flexibles y adaptadas a los diferentes ritmos y necesidades del alumnado.</li>\n<li>Programa de Educación Ambiental del centro: cuidado del entorno y contacto directo con la naturaleza.</li>\n<li>Plan de Convivencia: trabajo cooperativo, respeto de normas, desarrollo de habilidades sociales y resolución de conflictos de manera pacífica.</li>\n<li>Plan digital: uso guiado de herramientas digitales para la creación de la infografía y el podcast.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777489770824-n5ru8vjkd</odePageId>
+  <odeParentPageId>page-1777486422241-70x7la95p</odeParentPageId>
+  <pageName> 5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777489770824-n5ru8vjkd</odePageId>
+      <odeBlockId>block-1777489773267-xtap836ir</odeBlockId>
+      <blockName>Actividades complementarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777489770824-n5ru8vjkd</odePageId>
+          <odeBlockId>block-1777489773267-xtap836ir</odeBlockId>
+          <odeIdeviceId>idevice-1777489773265-v9qb8ryzx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dentro de esta situación de aprendizaje se desarrollarán las siguientes actividades complementarias:</p>
+<ul>
+<li><strong>Salidas al entorno: </strong>Observación directa de insectos en el patio, huerto escolar o entorno cercano.</li>
+<li><strong>Visita</strong> guarda forestal de la zona.<br /></li>
+<li><strong>Salida: </strong>Aula de la Miel de los Picos de Europa, en cangas de Onís.</li>
+<li><strong>Taller:</strong> con la empresa Birdwatch Asturias con explicaciones y juegos para la elaboración del hotel de bichos</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777489773265-v9qb8ryzx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dentro de esta situación de aprendizaje se desarrollarán las siguientes actividades complementarias:</p>\n<ul>\n<li><strong>Salidas al entorno: </strong>Observación directa de insectos en el patio, huerto escolar o entorno cercano.</li>\n<li><strong>Visita</strong> guarda forestal de la zona.<br /></li>\n<li><strong>Salida: </strong>Aula de la Miel de los Picos de Europa, en cangas de Onís.</li>\n<li><strong>Taller:</strong> con la empresa Birdwatch Asturias con explicaciones y juegos para la elaboración del hotel de bichos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777490372523-pkorz66qd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este eXe</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777490372523-pkorz66qd</odePageId>
+      <odeBlockId>block-1777490401773-01k9wp0pw</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777490372523-pkorz66qd</odePageId>
+          <odeBlockId>block-1777490401773-01k9wp0pw</odeBlockId>
+          <odeIdeviceId>idevice-1777490401771-i84eymbzj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Descripción de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: justify;">La situación de aprendizaje ha sido elaborada mediante la versión online de eXelearning, por lo que el fichero fuente se ofrece en formato .elpx, compatible con eXelearning y editable para su reutilización.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
